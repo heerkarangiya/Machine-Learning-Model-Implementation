@@ -42,7 +42,7 @@ The model achieved good accuracy and performance on the testing dataset.
 
 ## 👨‍💻 Author
 
-Utsav Desai
+Heer Karangiya
 
 This project was completed as part of the CODTECH Internship Program.
 
